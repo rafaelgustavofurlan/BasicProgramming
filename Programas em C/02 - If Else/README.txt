@@ -1,0 +1,39 @@
+script1.c
+Ler uma variavel numerica n e imprimi-la somente se a mesma for maior que 100, caso contrário, imprimi-la com o valor zero.
+
+script2.c
+Elabore um algoritmo que leia um numero. Se positivo armazene-o em 'a', se for negativo, em 'b'. No final mostrar o resultado.
+
+script3.c
+Ler um numero e verificar se ele é par ou impar. QUando for par armazenar este valor em 'p' e quando for impar armazena-lo em 'i'. Exibir 'p' ou 'i' no final do processamento.
+
+script4.c
+Tendo como dados de entrada a altura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes formulas:
+para homens: (72.7 * altura) - 58
+para mulheres: (62.1 * altura) - 44.7
+
+script5.c
+Joao da Silva, pescador, comprou um microsomputados para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de Sâo Paulo (50 quilos) deve pagar uma multa de R$4,00 por quilo excedente. João precisa que você faça um algoritmo que leia a variável 'p' (peso de peixes) e verifique se há excesso. Se houver, gravar na variável 'e' (excesso) e na variável 'm' o valor da multa que João deverá pagar. Caso contrario mostrar tais variáveis com o conteudo 'zerado'.
+
+script6.c
+Elabore um algoritmo que leia as variaveis 'c' e 'n', respectivamente codigo e numero de horas trabalhadas de um operario. Calucle o salario sabendo-se que ele ganha 
+R$10,00 por hora. QUando o numero de horas exceder a 50 calcule o excesso de pagamento armazenando-o na variavel 'e'. Caso contrario zerar tal variavel. A hora excedente de trabalho vale R$20,00. No final do processamento, imprimir o salario total e o salario excedente.
+
+script7.c
+desenvolva um algoritmo que leia 4 numeros, calcule o quadrado de cada um, se o valor resultante do quadrado do terceiro for >=1000, imprima-o e finalize. Caso contrario, imprima os valores lidos e seus respectivos quadrados.
+
+script8.c
+Faca um algoritmo que leia um numero inteiro e mostre uma mensagem indicando se este numero é par ou impar, e se positivo ou negativo.
+
+script9.c
+A secretaria de meio ambiente que controla o indice de poluicao mantem 3 grupos de industrias que sao altamente poluentes do meio ambiente. O indice de poluicao aceitavel varia de 0.05 ate 0.25. se o indice sobe para 0.3 as industrias do 10 grupo sao intimadas a suspenderem suas atividades, se o indice crescer para 0.4 as industrias do 1o e 2o grupo sao intimadas a suspenderem suas atividades, se o indice
+atingir 0.5 todos os grupos devem ser notificados a paralisarem suas atividades. Faca um algoritmo que leia o indice de poluicao medido e emita a notificacao adequada aos
+diferentes grupos de empresas.
+
+script10.c
+Elabore um algoritmo que dada a idade de um nadador classifique-o em uma das seguintes categorias:
+infantil-a = 5 a 7 anos
+infantil-b = 8 a 11 anos
+juvenil-a = 12 a 13 anos
+juvenil-b = 14 a 17 anos
+adultos = maiores de 18 anos
