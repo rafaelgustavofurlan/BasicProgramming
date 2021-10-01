@@ -1,6 +1,2 @@
 # BasicProgramming
-This repository is to share all most simple algorithms I have
-
-I'll sharing here the basics concept of coding in some languages (python, java and C/C++) and i'll split the subjects each one in one folder. I hope it can help you.
-
-See you later.
+Neste repositório irei compartilhar os scripts mais simples que já vi na minha vida profissional, com intuito de ajudar a quem precisar de ajuda com problemas de lógica. Irei postando conforme conseguir ajustá-los. Serão a priori scripts em C, Java e Python.
